@@ -30,7 +30,8 @@
     {
       "matches": [
         "https://www.google.com/search*",
-        "https://www.ecosia.org/search*"
+        "https://www.ecosia.org/search*",
+        "https://kagi.com/search*"
       ],
       "js": [
         "./content/content.tsx"
